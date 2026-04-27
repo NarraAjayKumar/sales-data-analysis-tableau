@@ -72,3 +72,34 @@ The goal is to identify unhealthy machines, downtime patterns, and factory-wise 
 
 ## 🎯 Conclusion
 This project demonstrates how Tableau can be used to analyze data and generate insights for decision-making.
+
+## 🚀 Tasks Performed
+
+### 🔹 Task 1: Tableau Dashboard (Data Visualization)
+- Imported dataset into Tableau.
+- Analyzed machine performance data.
+- Created visualizations:
+  - Factory-wise unhealthy machines
+  - Device-wise downtime analysis
+- Designed an interactive dashboard combining multiple charts.
+- Generated insights to identify high-risk factories and devices.
+
+---
+
+### 🔹 Task 2: Excel Data Analysis (Equality Classification)
+- Worked on Equality Table dataset in Excel.
+- Created a new column: **Equality Class**.
+- Applied conditional logic to classify scores:
+
+  - **Fair** → Score between -10 and +10  
+  - **Unfair** → Score between -20 and -10 OR 10 and 20  
+  - **Highly Discriminative** → Score < -20 OR > 20  
+
+- Used Excel formulas to automate classification.
+- Organized and validated data for accuracy.
+
+---
+
+## 📂 Files Included
+- `Sales_Dashboard.twbx` → Tableau dashboard  
+- `Task 5 Equality Table.xlsx` → Excel analysis file
